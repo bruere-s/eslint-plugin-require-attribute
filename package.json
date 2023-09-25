@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-require-attribute",
-  "version": "1.0.1",
+  "name": "@vue-require-mixpanel/eslint-plugin",
+  "version": "1.0.2",
   "description": "eslint plugin for front web app, check require mixpanel attribute on required DOM element",
   "main": "index.js",
   "scripts": {
