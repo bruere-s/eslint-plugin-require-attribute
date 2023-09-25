@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-require-attribute",
+  "version": "1.0.1",
+  "description": "eslint plugin for front web app, check require mixpanel attribute on required DOM element",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "new-version": "changeset && npx changeset version && npm i",
+    "publish": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue-eslint-parser": "^9.1.0",
+    "@changesets/cli": "^2.26.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  }
+}
